@@ -1,0 +1,12 @@
+out
+.classpath
+.project
+.settings
+.metadata
+*.log
+target
+classes
+build
+bin
+classes
+*~
